@@ -1,6 +1,4 @@
 Encoding=UTF-8
-Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferson (05/12/2018), Vafels (12/02/2019), Vafels (19/03/2019), Deathwing (19/01/2022)
-
 // @1= these are variables, DO NOT CHANGE
 
 0=CAMPAIGN
@@ -395,7 +393,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 389=Defend @1
 390=Press '@1' to change view
 391=You delivered @1 damage
-392=You are being repaired by @1
+392=Your vehicle is being repaired by @1
 393=Enemy vehicle hit
 394=A rally point cannot be placed here.
 395=You are being repaired by @1
@@ -414,7 +412,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 408=Master server couldn't verify your account. /?
 409=Your current Steam name is not allowed in BattleBit servers. /?
 410=Steam token was not verified. /?
-411=HitMarkers//For Options
+411=Hitmarkers//For Options
 412=Loading Level...//For loading screen
 413=[ Advance and Secure ]//																		Loading Screen
 414=• Each friendly spawn decreases tickets from your team.//										Loading Screen AAS Tip 1
@@ -423,7 +421,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 417=• Capture all the flags.//																		Loading Screen AAS Tip 4
 418=• Defend your own flags.//																		Loading Screen AAS Tip 5
 419=[ Team Death Match ]//																			Loading Screen
-420=• Each kill decreases 1 ticket from enemy team.//												Loading Screen TDM Tip 1
+420=• Each kill decreases 1 ticket from the enemy team.//												Loading Screen TDM Tip 1
 421=• Win by ending enemy team's tickets.//															Loading Screen TDM Tip 2
 422=• Win by having bigger ticket count whenever round timer ends.//								Loading Screen TDM Tip 3
 423=Connecting to server and synchronizing...
@@ -438,7 +436,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 432=FireMode//							For Options
 433=Reload//							For Options
 434=Magazine Check//					For Options
-435=Laser On/OFF//						For Options
+435=Toggle Laser//						For Options
 436=Friendly Color//					For Options
 437=Squad Friendly Color//				For Options
 438=Squad Captain Color//				For Options
@@ -458,10 +456,10 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 452=Keybindings//						For Menu
 453=Magazine Pick//						For Options
 454=Open Close Door//					For Options
-455=Voip (Squad Leaders)//				For Options
+455=VoIP (Squad Leaders)//				For Options
 456=Map Zoom//							For Options
 457=Squad Leader Menu//					For Options
-458=Lights On/Off//						For Options
+458=Toggle Lights//						For Options
 459=Tank Smoke//						For Options
 460=In Game//							For Options
 461=User Interface//					For Options
@@ -635,7 +633,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 629=Ping//
 630=ID//
 631=@1 hz//Tickrate
-632=Your version does not match with server version//
+632=Your version does not match with the server's version//
 633=Hardcore
 634=Casual
 635=Type//
@@ -655,7 +653,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 649=Create a new clan and invite your friends (Prestige 1 and above can create)//
 650=Join a clan//
 651=Join a clan using an invite code//
-652=You can only create a clan if you are a Patreon Fireteam Backer or Rank 60 and above.//
+652=You can only create a clan if you are a Patreon Fireteam Backer or Prestige 1 and above.//
 653=Invite Code//
 654=Please enter the invite code below.//
 655=Cancel//
@@ -712,7 +710,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 706=Press any key to continue.//
 707=Connecting to Master Server//
 708=Rain Quality//
-709=You Are Bleeding//
+709=You are bleeding//
 710=Bandage Self//
 711=Bandage @1//
 712=Switch To Next Sight//
@@ -809,7 +807,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 803=Throw Gadget//
 804=You are being bandaged.//
 805=You are being healed.//
-806=You will able to resupply again in @1 seconds.
+806=You will be able to resupply again in @1 seconds.
 807=Resupply//
 808=@1 HP//HP = Healthpoints
 809=@1 @2% Running Speed//@1 = - or + , @2 = the points. Example => + 20% RUNNING SPEED.
@@ -832,7 +830,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 826=Secondary Gadget//
 827=Aiming Speed//
 828=Hold to start the engine
-829=Engine on/off//
+829=Toggle Engine//
 830=You need to ADS to fire.
 831=Gunner Kill Assist
 832=Number of Lights//
@@ -1279,7 +1277,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 1273=Enable chat//
 1274=Team chat//Chat
 1275=All chat//
-1276=A very small percentage of individuals may experience epileptic seizures when exposed to certain light patterns or flashing lights. Exposure to certain patterns or backgrounds on a computer screen, or while playing video games, may induce an epileptic seizure in these individuals. Certain conditions may induce previously undetected epileptic symptoms even in persons who have no history of prior seizures or epilepsy. If you or anyone in your family, have an epileptic condition, consult your physician prior to playing. If you experience any of the following symptoms while playing a video or computer game -- dizziness, altered vision, eye or muscle twitches, loss of awareness, disorientation, any involuntary movement, or convulsions - immediately discontinue use and consult your physician before resuming play.//
+1276=A very small percentage of individuals may experience epileptic seizures when exposed to certain light patterns or flashing lights. Exposure to certain patterns or backgrounds on a computer screen, or while playing video games, may induce an epileptic seizure in these individuals. Certain conditions may induce previously undetected epileptic symptoms even in persons who have no history of prior seizures or epilepsy. If you or anyone in your family have an epileptic condition, consult your physician prior to playing. If you experience dizziness, altered vision, eye or muscle twitches, loss of awareness, disorientation, any involuntary movement, or convulsions immediately discontinue use and consult your physician before resuming play.//
 1277=Warning: risk of seizure//
 1278=You @1 - @2 Foe
 1279=You bled out!//
@@ -1496,14 +1494,14 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 1490=Cannot be deployed in safe zone.
 1491=Press '@1' To Close.
 1492=Auto Refresh//
-1493=Master voip volume//
-1494=Steam friend voip volume//
-1495=Party friend voip volume//
-1496=Clan friend voip volume//
-1497=Squad leader voip volume//
-1498=Squadmate voip volume//
-1499=Teammate voip volume//
-1500=Enemy voip volume//
+1493=Master VoIP volume//
+1494=Steam friend VoIP volume//
+1495=Party friend VoIP volume//
+1496=Clan friend VoIP volume//
+1497=Squad leader VoIP volume//
+1498=Squadmate VoIP volume//
+1499=Teammate VoIP volume//
+1500=Enemy VoIP volume//
 1501=Voice Chat - Racism / Discrimination//
 1502=Text Chat - Racism / Discrimination//
 1503=Text Chat - Spamming//
@@ -1511,7 +1509,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 1505=Text Chat - Bad Language//
 1506=Send//
 1507=You are reporting @1 for @2\nPlease provide more information about their behaviour to help us understand.
-1508=More info/n(You can leave this blank but it would help us a lot if you give details for us to look for)//
+1508=More info/n(You can leave this blank but it would help us a lot if you gave us details to look for)//
 1509=Voice Chat - Bad Language//
 1510=Inappropriate profile name / picture//
 1511=Spectate//
@@ -1570,8 +1568,8 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 1564=Capture The Flag//Name of the gamemode.
 1565=Take the flag/nTake it to your base
 1566=@1 Report
-1567=Our flag has been taken
-1568=Enemy flag has been taken
+1567=Our flag has been taken!
+1568=Enemy flag has been taken!
 1569=Enemy flag taken!
 1570=Our flag was dropped!
 1571=Enemy flag was dropped!
@@ -1580,7 +1578,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 1574=Flag captured!
 1575=We returned our flag.
 1576=Enemy has returned their flag
-1577=Flag returned
+1577=Flag returned!
 1578=Show line towards objective//
 1579=Defend
 1580=Capture
@@ -1647,3 +1645,6 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 1641=Completed
 1642=You completed all challenges;
 1643=Weekly challenges are disabled on custom progression servers.
+1644=Hit marker random rotation//
+1645=Invasion//Gamemode's name
+1646=Weekly challenge notifications//
